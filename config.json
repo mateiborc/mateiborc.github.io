@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Created by Group 8"
+  },
+  "text": {
+    "more": "This is a codex with the cognitive biases that have changed due to our increased interactions with technology. The purpose of this diagram is to help people better understand how these biases are related to each other through a visual representation. \n\nThis diagram should be used alongside the report produced for DH Ready, which contains further information on the biases, as well as sample applications and useful insights. \nIn addition to this, the report contains the correct referencing for any information from another original source.",
+    "intro": "Codex of cognitive biases changed by technology",
+    "title": "Biases"
+  },
+  "legend": {
+    "edgeLabel": "links",
+    "colorLabel": "Type of Bias",
+    "nodeLabel": "Bias"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 2,
+      "minEdgeSize": 1,
+      "minNodeSize": 1,
+      "maxNodeSize": 9
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
